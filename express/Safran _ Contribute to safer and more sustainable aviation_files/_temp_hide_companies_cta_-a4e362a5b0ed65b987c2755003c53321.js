@@ -1,0 +1,1 @@
+(function($){$("body > header > div > nav > ul > li.js-header-main__navigation-item-container.js-header-main__navigation-item-container-magic-line.nav.c-header-main__companies > div.c-header-main-hidden-content > div > div > div.c-header-main-hidden-content__buttons-container").remove();console.log('AJ=COMP');})(jQuery);
